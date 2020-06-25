@@ -1,0 +1,4 @@
+.env
+dist/
+service.pyc
+__pycache__/
